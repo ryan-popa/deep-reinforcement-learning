@@ -6,8 +6,10 @@ Feel free to contribute.
 
 ## Algorithms covered in the repo
 - Double DQN (with prioritized experience replay).
-- PPO (simplified, without batching)
+- PPO (simplified, without batching. Check [here](https://github.com/philtabor/Youtube-Code-Repository/blob/master/ReinforcementLearning/PolicyGradient/PPO/torch/ppo_torch.py) a more complex pytorch implementation using advantage, actor-critic and batching from philtabor)
+- A2C 
 - REINFORCE
+- DDPG``
 
 ## Reinforcement Learning Algorithm Classification
 
